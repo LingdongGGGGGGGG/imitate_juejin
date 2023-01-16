@@ -10,4 +10,7 @@
 /dataSources.local.xml
 
 # IDEA settings
-.idea
+/.idea/
+
+# library root
+/node_modules/
